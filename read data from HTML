@@ -1,0 +1,5 @@
+## The two main ways to work with HTML files are:
+
+1. Saving the HTML file to your computer (using the Requests library for example) library and 
+reading that file into a BeautifulSoup constructor
+2. Reading the HTML response content directly into a BeautifulSoup constructor (again using the Requests library for example)
